@@ -6,6 +6,15 @@ import Home from './components/Home';
 import { useEffect, useState } from 'react';
 
 function App() {
+    const [books, setBooks] = useState([]);
+    const [cart, setCart] = useState([]);
+  
+    useEffect(() => {
+      fetch(" http://localhost:3000/books")
+      .then((res) => res.json())
+      .then((bookData) => setBooks(bookData))
+    }, [])
+
     return (
         <div>
           <NavBar />
