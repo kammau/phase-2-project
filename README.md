@@ -6,3 +6,7 @@ The first part of the web application that you will see is the shop. On this pag
 
 # Navigation Bar
 At the very top of the page you shall see a navigation bar with three options, shop, sell, and cart. Clicking one of these options will take you to 
+a new route corresponding to that specific page.
+
+# Sell
+The second option on the navigation bar is the Sell page. This page is for user to sell their books. The user is provided with four input boxes to add information to the book card when the sale is complete. These inputs are book title, author, an image url, and the price of the book. After filling in all of the respective inputs, the user will be able to click the 
