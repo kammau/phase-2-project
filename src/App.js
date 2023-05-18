@@ -46,6 +46,19 @@ function App() {
           return setBooks(updatedBooks)
         })
       }
+      
+      function handleSellBook(soldBookData) {
+        const updatedBooks = [...books, soldBookData];
+        setBooks(updatedBooks)
+        fetch("http://localhost:3000/books", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify(soldBookData)
+        })
+      }
+    
 
     return (
         <div>
