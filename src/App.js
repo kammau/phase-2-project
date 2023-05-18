@@ -46,7 +46,7 @@ function App() {
           return setBooks(updatedBooks)
         })
       }
-      
+
       function handleSellBook(soldBookData) {
         const updatedBooks = [...books, soldBookData];
         setBooks(updatedBooks)
@@ -77,3 +77,5 @@ function App() {
         </div>
       );
 }
+
+export default App;
