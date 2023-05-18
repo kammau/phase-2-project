@@ -11,3 +11,5 @@ a new route corresponding to that specific page.
 # Sell
 The second option on the navigation bar is the Sell page. This page is for user to sell their books. The user is provided with four input boxes to add information to the book card when the sale is complete. These inputs are book title, author, an image url, and the price of the book. After filling in all of the respective inputs, the user will be able to click the sell button. If the user does not enter a book price an alert message with come up telling the user to "Please enter a price". Once all of the boxes have been filled and the sell button is pressed the book will be added to the shop page and an alert message will appear telling the user their book has been placed on the market.
 
+# Cart
+The cart tab is where the user can see the books they have added to their cart. They will be able to see the books title, author, as well as price.
