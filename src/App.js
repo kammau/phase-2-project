@@ -15,6 +15,38 @@ function App() {
       .then((bookData) => setBooks(bookData))
     }, [])
 
+    function handleAddToCart(book) {
+        const updatedCart = [...cart, book]
+        setCart(updatedCart)
+        fetch(`http://localhost:3000/books/${book.id}`, {
+          method: "PATCH",
+          headers: {
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify({
+            stock: "Out of Stock"
+          })
+        })
+        .then((res) => res.json())
+        .then((newBookData) => {
+          const updatedBooks = books.map((book) => {
+            if (book.id === newBookData.id) {
+              return book = {
+                id: book.id,
+                title: book.title,
+                author: book.author,
+                image: book.image,
+                price: book.price,
+                stock: "Out of Stock"
+              }
+            } else {
+              return book
+            }
+          })
+          return setBooks(updatedBooks)
+        })
+      }
+
     return (
         <div>
           <NavBar />
