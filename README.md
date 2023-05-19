@@ -27,15 +27,15 @@ Here are all of the images URLs as well as references to the books that I used i
 
 - Diary of a Wimpy Kid | Author: Jeff Kinney | [Image URL used](https://m.media-amazon.com/images/I/51PU+rBEnjL._SY346_.jpg)
 
-- The Maze Runner | Author: James Dashner | [Image URL used]()
+- The Maze Runner | Author: James Dashner | [Image URL used](https://m.media-amazon.com/images/I/51abqQT4ajL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg)
 
-- Fablehaven | Author: Brandon Mull | [Image URL used]()
+- Fablehaven | Author: Brandon Mull | [Image URL used](https://m.media-amazon.com/images/I/515fQFxGOeL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg)
 
-- If We Survive | Author: Andrew Klavan | [Image URL used]()
+- If We Survive | Author: Andrew Klavan | [Image URL used](https://m.media-amazon.com/images/I/51gk8tM5WiL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg)
 
-- Pacific Vortex | Author: Clive Cussler | [Image URL used]()
+- Pacific Vortex | Author: Clive Cussler | [Image URL used](https://m.media-amazon.com/images/I/51PSR2h9S4L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg)
 
-- Serpent | Author: Clive Cussler and Paul Kemprecos | [Image URL used]()
+- Serpent | Author: Clive Cussler and Paul Kemprecos | [Image URL used](https://m.media-amazon.com/images/I/51Bu4i5CHIL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg)
 
 All images and information about books was gathered from [amazon.com](amazon.com)
 
