@@ -1,4 +1,6 @@
 # phase-2-project
+[Video Walkthrough](https://youtu.be/scgrDM7-oD4)
+
 Welcome to my Phase-2-Project README! In this README file I will explain the basics of how my react web application works and how you can use it today!
 
 # Shop
