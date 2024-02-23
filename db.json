@@ -6,7 +6,7 @@
       "author": "Rick Riordan",
       "image": "https://m.media-amazon.com/images/I/51-pTCdtM5L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
       "price": 8.52,
-      "stock": "Available"
+      "stock": "Out of Stock"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "author": "Chris Colfer",
       "image": "https://m.media-amazon.com/images/I/610XUs60OKL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
       "price": 5.29,
-      "stock": "Available"
+      "stock": "Out of Stock"
     },
     {
       "id": 3,
@@ -29,7 +29,7 @@
       "title": "The Chronicles of Narnia: The Magician's Nephew",
       "author": "C.S. Lewis",
       "image": "https://m.media-amazon.com/images/I/51T4li1d7BL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
-      "price": 14.50,
+      "price": 14.5,
       "stock": "Available"
     },
     {
